@@ -2,6 +2,9 @@
 
 A block-based visual programming editor inspired by [Scratch MIT](https://scratch.mit.edu), built to help users of all ages learn coding concepts by snapping together code blocks.
 
+## Demo
+- https://drive.google.com/file/d/1z3LGWCW_WOEUZEOCpsd74tMapWshbJJX/view?usp=sharing
+
 ## 🚀 Features
 - Drag-and-drop code blocks
 - Block-based logic editor (similar to Scratch)
