@@ -22,7 +22,7 @@ A block-based visual programming editor inspired by [Scratch MIT](https://scratc
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/visual-code-editor.git
+git clone https://github.com/Ankur1441/Visual-Code-Editor/tree/main
 cd visual-code-editor
 npm install
 npm start
